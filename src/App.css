@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  color: #61dafb;
+}
